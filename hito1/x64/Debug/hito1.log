@@ -1,0 +1,24 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: El directorio intermedio (x64\Debug\) contiene archivos compartidos de otro proyecto (hito1.vcxproj, hito2.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  escenarios.cpp
+C:\Users\pc\source\repos\hito2\hito1\escenarios.cpp(144,17): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/escenarios.cpp")
+  
+C:\Users\pc\source\repos\hito2\hito1\escenarios.cpp(150,17): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/escenarios.cpp")
+  
+C:\Users\pc\source\repos\hito2\hito1\escenarios.cpp(216,17): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/escenarios.cpp")
+  
+C:\Users\pc\source\repos\hito2\hito1\escenarios.cpp(222,17): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/escenarios.cpp")
+  
+C:\Users\pc\source\repos\hito2\hito1\escenarios.cpp(287,17): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/escenarios.cpp")
+  
+C:\Users\pc\source\repos\hito2\hito1\escenarios.cpp(293,17): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/escenarios.cpp")
+  
+  hito3.cpp
+  Generando código...
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  hito1.vcxproj -> C:\Users\pc\source\repos\hito2\x64\Debug\Hito3.exe
